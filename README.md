@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is Cankut Bora Tuncer and:
+- 🔭 I’m a Junior EEE student @Bilkent
+- 🌱 I’m interested in Microcontrollers & Embedded Systems.
+- 📫 How to reach me: bora.tuncer2002@gmail.com
 
 <!--
 **CankutBoraTuncer/CankutBoraTuncer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
