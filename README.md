@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Cankut Bora Tuncer and:
-- 🔭 I’m a MS CS student @Bilkent
-- 🌱 I’m interested in Robotics & AI & Embedded Systems.
+- 🔭 I’m an PhD CS student @Rutgers
+- 🌱 I’m interested in Robotics.
 - 📫 How to reach me: bora.tuncer2002@gmail.com
 
 <!--
